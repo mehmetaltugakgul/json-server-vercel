@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "tasks": [
     {
       "title": "Başlık",
       "taskDesc": "Sayfa yenilesen de gitmiyor, ancak linke giren herkes herkesin taskına müdahale edebiliyor",
